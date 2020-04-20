@@ -12,3 +12,5 @@ after successfully installed, run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Click Allow when browser ask your permission to access the camera.
